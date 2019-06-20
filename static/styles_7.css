@@ -1,0 +1,80 @@
+html { 
+    font-size: 62.5%; 
+    display: inline-block;
+}
+body {
+    display: block;
+}
+
+main {
+	margin: 0 auto;
+	padding: auto;
+	background: #f8f8f8;
+	border: none;
+	color: #111;
+	font-family: "canada-type-gibson",sans-serif;
+	font-size: 18px;
+	font-size: 1.8rem;
+	line-height: 28px;
+    line-height: 2.8rem;
+    background-position: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 20px;
+    display: block;
+}
+ul {
+    list-style-position:inside;
+}
+
+#bannerimage {
+    background-image: url(images/Miskatonic-Brewing-Company-Home-Banner-8-1024x404.jpg);
+    height: 405px;
+    width: 1024px;
+    background-position: center;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#ratioimage {
+    background-image: url(images/poi_gallery_image-image-e4a130da-b31e-4922-9fba-3880d8efb10d.jpg);
+    height: 480px;
+    width: 1024px;
+    background-position: center;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#denverbeerco {
+    background-image: url(images/Denver-Beer-Company-2-Credit-Evan-Semon_3ef0c212-f0ae-5102-065b1838872652ae.jpg);
+    height: 645px;
+    width: 1024px;
+    background-position: center;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#greatdivide {
+    background-image: url(images/Great-Divide-Barrel-Bar-Denver-1280x640.jpg);
+    height: 640px;
+    width: 1280px;
+    background-position: center;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#cerebral {
+    background-image: url(images/cerebral-6.jpg);
+    height: 900px;
+    width: 1200px;
+    background-position: center;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+
+
